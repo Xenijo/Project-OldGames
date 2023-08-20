@@ -1,0 +1,1 @@
+Everything needs to be in the same folder(not the game)
